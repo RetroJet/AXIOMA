@@ -15,3 +15,4 @@ import Foundation
 // VETKA 4
 // VETKA 5
 // VETKA 6
+// MAIN 2
