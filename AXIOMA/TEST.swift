@@ -14,3 +14,4 @@ import Foundation
 // VETKA 3
 // VETKA 4
 // VETKA 5
+// VETKA 6
